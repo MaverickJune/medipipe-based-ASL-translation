@@ -1,0 +1,8 @@
+** directory 구성 설명 **
+
+a. code -> project code 를 모아둔 directory 입니다. 폴더 안에 별도의 readme 를 참고해 주세요
+b. 발표자료 -> 발표자료와 발표영상이 포함되어 있습니다.
+c. ltDL_2022_Project_5.docx -> 보고서입니다.
+d. Code_execution.mp4 -> code 실행 순간을 담은 20초 내외의 영상입니다.
+e. inference video -> 코드 동작 확인을 위해 사용할 수 있는 inference input video 입니다. 동작 확인해 사용하시면 될 것 같습니다.
+

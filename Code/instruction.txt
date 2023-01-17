@@ -1,0 +1,15 @@
+1. 프로젝트 메인 함수
+project.py
+
+project.py 에 주석으로 fixme 라고 표시한 부분이 3 군데 있습니다.
+첫번째 fixme 에는 input으로 넣어줄 비디오의 절대경로를 입력하시고,
+두번째, 세번째 fixme 에는 각 모델들의 weight 파일의 절대경로를 입력하셔서 사용하시면 됩니다.
+model 1 -> static.pt // model 2 -> last_model.pt
+
+2. 프로젝트 실행 방법
+code directory 안에 있는 모든 파일들이 반드시 같은 directory 에 존재해야 합니다.
+압축 해제후 구조 그대로 실행시켜 주시면 됩니다.
+
+3. model_training, data_preprocessing
+inference 시에는 사용하지 않으나, 학습과 데이터 전처리시 사용한 코드입니다.
+참고해 주시면 될 것 같습니다.
